@@ -22,7 +22,7 @@ Este repositório tem como objetivo resolver exercícios sobre algoritmos ambici
 | -- | -- |
 |[1262](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/)|🟡 Médio|
 |[2071](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)|🔴 Difícil|
-|[1537](https://leetcode.com/problems/get-the-maximum-score/description/)|🔴 Difícil|
+|[1703](https://leetcode.com/problems/get-the-maximum-score/description/)|🔴 Difícil|
 
 
 ## Screenshots
@@ -35,7 +35,7 @@ Este repositório tem como objetivo resolver exercícios sobre algoritmos ambici
 
 
 
-### Exerício 3 - [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/description/)
+### Exerício 3 - [Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/description/)
 
 
 
