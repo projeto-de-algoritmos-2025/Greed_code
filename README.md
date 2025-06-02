@@ -2,7 +2,6 @@
 
 # Exercícios LeetCode
 
-- **Número da Lista**: 2 <br>
 - **Conteúdo da Disciplina**: Algoritmos Ambiciosos <br>
 - [**Vídeo da Apresentação**](https://youtu.be/EKrA-cqyv6Q) <br>
 
