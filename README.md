@@ -43,5 +43,5 @@ Este repositório tem como objetivo resolver exercícios sobre algoritmos ambici
 - Para os testes e julgamentos automáticos, os códigos devem ser executados no LeetCode.
 
 ## Uso 
-
+Entrar no link da questão do LeetCodee, escolher Python e colocar o código para ser submetido aos testes.
   
