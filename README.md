@@ -27,16 +27,46 @@ Este repositório tem como objetivo resolver exercícios sobre algoritmos ambici
 ## Screenshots
 
 ### Exercício 1 - [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/)
+Resolução em Código: [1262](codigos/1262.py)
+<div align="center">
+  <p><strong>Imagem 1 - Questão 1262</strong></p>
+</div>
 
+![1262](assets/1262question.png)
+<div align="center">
+  <p><strong>Imagem 2 - Exercício 1262 Aceito</strong></p>
+</div>
+
+![1262](assets/1262.png)
 
 
 ### Exercício 2 - [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/)
 
+Resolução em Código: [2071](codigos/2071.py)
+<div align="center">
+  <p><strong>Imagem 3 - Questão 2071</strong></p>
+</div>
 
+![2071](assets/2071question.png)
+<div align="center">
+  <p><strong>Imagem 4 - Exercício 2071 Aceito</strong></p>
+</div>
+
+![2071](assets/2071.png)
 
 ### Exerício 3 - [Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/description/)
 
+Resolução em Código: [1703](codigos/1703.py)
+<div align="center">
+  <p><strong>Imagem 5 - Questão 1703</strong></p>
+</div>
 
+![1703](assets/1703question.png)
+<div align="center">
+  <p><strong>Imagem 6 - Exercício 1703 Aceito</strong></p>
+</div>
+
+![1703](assets/1703.png)
 
 ## Instalação 
 **Linguagem**: Python
