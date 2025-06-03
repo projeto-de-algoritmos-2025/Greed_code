@@ -3,7 +3,7 @@
 # Exercícios LeetCode
 
 - **Conteúdo da Disciplina**: Algoritmos Ambiciosos <br>
-- [**Vídeo da Apresentação**](https://youtu.be/EKrA-cqyv6Q) <br>
+- [**Vídeo da Apresentação**](https://youtu.be/rXcZ7c_9HB8) <br>
 
 ## Alunos
 |Matrícula | Aluno |GitHub|
@@ -12,7 +12,7 @@
 
 
 ## Vídeo da Apresentação
-Acesse o vídeo de explicação das resoluções [clicando aqui]().
+Acesse o vídeo de explicação das resoluções [clicando aqui](https://youtu.be/rXcZ7c_9HB8).
 
 ## Sobre 
 Este repositório tem como objetivo resolver exercícios sobre algoritmos ambiciosos do [LeetCode](https://leetcode.com/).
